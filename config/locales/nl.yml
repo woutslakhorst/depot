@@ -1,0 +1,17 @@
+nl:
+  layouts:
+      application:
+          title:        "Wout's Boekenplank"
+          home:         "Thuis"
+          questions:    "Vragen"
+          news:         "Nieuws"
+          contact:      "Contact"
+          
+  number:
+      currency:
+          format:
+              unit:       "&euro;"
+              precision:  2
+              seperator:  "."
+              delimeter:  ","
+              format:     "%u%n"
